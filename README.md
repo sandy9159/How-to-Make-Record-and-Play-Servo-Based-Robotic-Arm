@@ -41,7 +41,7 @@ which consists of everything needed for this project.
 
 
 
-# CIRCUIT DIAGRAM AND CUTOM PCB
+# CIRCUIT DIAGRAM AND CUSTOM PCB
 ![image](https://user-images.githubusercontent.com/19898602/130772051-8030b6eb-8019-450d-9ea7-c984b783eb11.png)
 ![MVI_0001 00_04_10_14 Still001](https://user-images.githubusercontent.com/19898602/130772398-7baab1e9-dfee-462f-a429-2a9d01c8fd55.jpg)
 
